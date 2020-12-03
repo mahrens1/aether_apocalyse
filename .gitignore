@@ -10,5 +10,5 @@
 !*/
 
 # if the files to be tracked are in subdirectories
-!Quake_TrenchBroom/id1/maps/testlevel.map
-!Quake_TrenchBroom/id1/maps/aetherapocalypse.map
+!id1/maps/testlevel.map
+!id1/maps/aetherapocalypse.map
